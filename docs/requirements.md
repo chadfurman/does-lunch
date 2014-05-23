@@ -1,7 +1,3 @@
-# Fuzz Lunch App
-Version 0.0.1
-Work in progress
-
 ## General Requirements
 
 Employees will be able to visit the app and create a lunch run. 
